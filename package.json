@@ -1,0 +1,25 @@
+{
+  "name": "pokemon-servers",
+  "version": "0.0.1",
+  "description": "A bot that turns your Discord servers into a Pokémon region",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DMJamboe/pokemon-servers.git"
+  },
+  "author": "DMJamboe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DMJamboe/pokemon-servers/issues"
+  },
+  "homepage": "https://github.com/DMJamboe/pokemon-servers#readme",
+  "dependencies": {
+    "discord.js": "^14.15.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.2.0"
+  }
+}
